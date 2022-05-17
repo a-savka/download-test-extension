@@ -4,10 +4,6 @@
   "description": "For testing allow-downloads extension policy",
   "version": "1.0.0",
   "useShellSDK": true,
-  "outletPositions": [
-		"SHELL_HOME_SCREEN",
-    "oneToOne1"
-	],
   "shellNavigation": {
     "icon": "building",
     "insideShell": true
